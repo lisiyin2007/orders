@@ -1,0 +1,10 @@
+{
+  "name": "天河时代E-PARK伸蓝智慧足球场",
+  "short_name": "伸蓝足球",
+  "description": "伸蓝智慧足球场订单管理",
+  "start_url": "/orders/",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#ffffff",
+  "orientation": "portrait"
+}
